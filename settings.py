@@ -1,6 +1,6 @@
 # === TELEGRAM OWNER ===
 OWNER_ID = 7716690774
-PP = "https://files.catbox.moe/zzx0s5.jpg"
+PP = "https://files.catbox.moe/nm34fg.jpg"
 BOT_TOKEN = "7998603978:AAEjEITbH3hDYHrejz11jmDWjQFyjqVt6Ac"
 # === PTERODACTYL PANEL ===
 DOMAIN = "YourDomain"
